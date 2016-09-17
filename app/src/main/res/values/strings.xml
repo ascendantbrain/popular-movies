@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="title_movie_detail">Movie Detail</string>
+
+    <!-- MovieSyncAdapter related -->
+    <string name="sync_account_type">popularmovies.ascendantbrain.com</string>
+    <string name="content_authority">com.ascendantbrain.android.popularmovies</string>
+    <string name="movie_poster">Movie poster</string>
+    <string name="label_trailers">Trailers:</string>
+    <string name="label_reviews">Reviews:</string>
+
+    <string name="lorem_long" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="main_menu_spinner_title">List Type</string>
+
+    <!-- Category -->
+    <string-array name="list_select_spinner">
+        <item>Popular</item>
+        <item>Top Rated</item>
+        <item>Favorites</item>
+    </string-array>
+
+    <!--test data only-->
+    <string name="author">by Phileas Fogg</string>
+    <string name="review">\"Fabulous action movie. Lots of interesting characters. They don\'t make many movies like this. The whole movie from start to finish was entertaining I\'m looking forward to seeing it again. I definitely recommend seeing it.\"</string>
+    <string name="thumbnail_content_description">Poster thumbnail image</string>
+    <string name="backdrop_movie_image">Backdrop movie image.</string>
+    <string name="title_reviews">Reviews</string>
+    <string name="title_videos">Videos</string>
+
+</resources>
